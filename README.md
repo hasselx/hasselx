@@ -2,7 +2,7 @@
 
 Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham.
 
-## What I Like to Explore
+## What I Do
 
 - 🎨 Designing, UI/UX tweaking, 3D Modelling
 - 🛠️ Creating no-code tools for personal productivity
@@ -23,10 +23,10 @@ Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasselx&show_icons=true&theme=transparent&hide_border=true&title_color=5B21B6&icon_color=5B21B6&text_color=333&bg_color=ffffff" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasselx&layout=compact&theme=transparent&hide_border=true&title_color=5B21B6&text_color=333&bg_color=ffffff" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasselx&show_icons=true&theme=radical&hide_border=true&title_color=5B21B6&icon_color=5B21B6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasselx&layout=compact&theme=radical&hide_border=true&title_color=5B21B6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasselx&theme=transparent&hide_border=true&ring=5B21B6&fire=5B21B6&currStreakLabel=5B21B6&sideNums=333&sideLabels=333&dates=666" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hasselx&theme=dark&hide_border=true&ring=5B21B6&fire=5B21B6&currStreakLabel=5B21B6&background=0d1117" alt="GitHub Streak" />
 </div>
