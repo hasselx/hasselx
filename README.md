@@ -2,9 +2,9 @@
 
 Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham.
 
-## What I Do
+## What I Like to Explore
 
-- 🎨 Designing & 3D Modelling
+- 🎨 Designing, UI/UX tweaking, 3D Modelling
 - 🛠️ Creating no-code tools for personal productivity
 
 ## Tech Stack
@@ -19,3 +19,14 @@ Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hasselx_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-krishnan-r)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naveen_krishnan.r/)
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasselx&show_icons=true&theme=transparent&hide_border=true&title_color=5B21B6&icon_color=5B21B6&text_color=333&bg_color=ffffff" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasselx&layout=compact&theme=transparent&hide_border=true&title_color=5B21B6&text_color=333&bg_color=ffffff" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasselx&theme=transparent&hide_border=true&ring=5B21B6&fire=5B21B6&currStreakLabel=5B21B6&sideNums=333&sideLabels=333&dates=666" alt="GitHub Streak" />
+</div>
