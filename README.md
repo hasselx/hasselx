@@ -23,8 +23,8 @@ Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasselx&show_icons=true&theme=radical&hide_border=true&title_color=5B21B6&icon_color=5B21B6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasselx&layout=compact&theme=radical&hide_border=true&title_color=5B21B6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasselx&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=5B21B6&icon_color=5B21B6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasselx&layout=compact&count_private=true&theme=dark&hide_border=true&title_color=5B21B6&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
