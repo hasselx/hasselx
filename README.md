@@ -2,7 +2,7 @@
 
 Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham.
 
-## What I Do
+## What I Like to Do
 
 - 🎨 Designing, UI/UX tweaking, 3D Modelling
 - 🛠️ Creating no-code tools for personal productivity
@@ -23,10 +23,11 @@ Electronics and Computer Engineering student at Amrita Vishwa Vidyapeetham.
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasselx&show_icons=true&count_private=true&theme=dark&hide_border=true&title_color=5B21B6&icon_color=5B21B6&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasselx&layout=compact&count_private=true&theme=dark&hide_border=true&title_color=5B21B6&text_color=c9d1d9&bg_color=0d1117&langs_count=6" alt="Top Languages" height="180" />
+  <img src="https://streak-stats.demolab.com?user=hasselx&theme=dark&hide_border=true&ring=5B21B6&fire=5B21B6&currStreakLabel=5B21B6&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hasselx&theme=dark&hide_border=true&ring=5B21B6&fire=5B21B6&currStreakLabel=5B21B6&background=0d1117" alt="GitHub Streak" />
+  
+[![View Full Stats](https://img.shields.io/badge/View_Full_Stats-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasselx?tab=repositories)
+
 </div>
