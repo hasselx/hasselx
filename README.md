@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/your-image-id" width="120" height="120" alt="Profile Picture">
-  
   # Naveen Krishnan R
   
   **Electronics and Computer Engineering** • Amrita Vishwa Vidyapeetham
@@ -17,11 +15,12 @@
     <img src="https://www.heypage.com/logo.png" width="60" height="60" alt="HeyPage Logo">
   </a>
   
-  ### [HeyPage](https://www.heypage.com)
+  ### [HeyPage](https://www.heypage.online)
   
-  *Building personal pages that connect*
+  *Create your personal link page and organize all your important links by category. Perfect for portfolios, projects, social media, and more.*
   
-  [![Visit HeyPage](https://img.shields.io/badge/Visit-HeyPage-5B21B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNiIgZmlsbD0iIzVCMjFCNiIvPgo8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuMzVlbSI+SDwvdGV4dD4KPC9zdmc+)](https://www.heypage.com)
+  [![Visit HeyPage](<img width="200" height="200" alt="h logo (1)" src="https://github.com/user-attachments/assets/7a9a498d-ab09-46e2-a4d1-82db594bf9c1" />
+)
   
   <br>
 </div>
@@ -39,14 +38,11 @@ const naveen = {
 ```
 
 **🎨 Creative Work**
-- Designing intuitive user experiences
-- Crafting beautiful UI components
 - 3D modeling and visualization
 - AI-powered solutions
 
 **🛠️ Building Tools**
-- Personal productivity applications
-- No-code automation solutions
+- No-code Personal productivity applications
 
 ---
 
