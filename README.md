@@ -1,4 +1,5 @@
 <div align="center">
+  
   # Naveen Krishnan R
   
   **Electronics and Computer Engineering** • Amrita Vishwa Vidyapeetham
@@ -11,16 +12,15 @@
 ## 🌟 Featured Project
 
 <div align="center">
-  <a href="https://www.heypage.com">
-    <img src="https://www.heypage.com/logo.png" width="60" height="60" alt="HeyPage Logo">
+  <a href="https://www.heypage.online">
+    <img src="https://github.com/user-attachments/assets/7a9a498d-ab09-46e2-a4d1-82db594bf9c1" width="80" height="80" alt="HeyPage Logo">
   </a>
   
   ### [HeyPage](https://www.heypage.online)
   
   *Create your personal link page and organize all your important links by category. Perfect for portfolios, projects, social media, and more.*
   
-  [![Visit HeyPage](<img width="200" height="200" alt="h logo (1)" src="https://github.com/user-attachments/assets/7a9a498d-ab09-46e2-a4d1-82db594bf9c1" />
-)
+  [![Visit HeyPage](https://img.shields.io/badge/Visit-HeyPage-5B21B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNiIgZmlsbD0iIzVCMjFCNiIvPgo8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuMzVlbSI+SDwvdGV4dD4KPC9zdmc+)](https://www.heypage.online)
   
   <br>
 </div>
@@ -38,11 +38,13 @@ const naveen = {
 ```
 
 **🎨 Creative Work**
+- Designing intuitive user experiences
+- Crafting beautiful UI components
 - 3D modeling and visualization
 - AI-powered solutions
 
 **🛠️ Building Tools**
-- No-code Personal productivity applications
+- No-code personal productivity applications
 
 ---
 
@@ -64,7 +66,7 @@ const naveen = {
 
 <div align="center">
   
-[![HeyPage](https://img.shields.io/badge/My_Page-5B21B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNiIgZmlsbD0iIzVCMjFCNiIvPgo8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuMzVlbSI+SDwvdGV4dD4KPC9zdmc+&logoColor=white)](https://heypage.vercel.app/hasselx)
+[![HeyPage](https://img.shields.io/badge/HeyPage-5B21B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNiIgZmlsbD0iIzVCMjFCNiIvPgo8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuMzVlbSI+SDwvdGV4dD4KPC9zdmc+&logoColor=white)](https://heypage.vercel.app/hasselx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-krishnan-r)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hasselx_)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naveen_krishnan.r/)
